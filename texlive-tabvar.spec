@@ -1,12 +1,12 @@
-# revision 23278
+# revision 25665
 # category Package
 # catalog-ctan /macros/latex/contrib/tabvar
-# catalog-date 2011-07-07 19:04:44 +0200
+# catalog-date 2012-03-16 09:54:35 +0100
 # catalog-license lppl1.3
-# catalog-version 1.6
+# catalog-version 1.61
 Name:		texlive-tabvar
-Version:	1.6
-Release:	2
+Version:	1.61
+Release:	1
 Summary:	Typesetting tables showing variations of functions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabvar
@@ -21,8 +21,7 @@ Requires(post):	texlive-kpathsea
 
 %description
 This LaTeX package is meant to ease the typesetting of tables
-showing variations of functions as they are used in France. The
-documentation is in French.
+showing variations of functions as they are used in France.
 
 %post
     %{_sbindir}/texlive.post
