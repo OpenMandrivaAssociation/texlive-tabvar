@@ -60,3 +60,20 @@ showing variations of functions as they are used in France.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar fonts metapost tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Tue Mar 27 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.61-1
++ Revision: 787781
+- Update to latest release.
+
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.6-2
++ Revision: 756506
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.6-1
++ Revision: 719650
+- texlive-tabvar
+- texlive-tabvar
+- texlive-tabvar
+
