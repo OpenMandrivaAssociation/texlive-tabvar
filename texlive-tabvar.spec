@@ -1,11 +1,11 @@
-# revision 25665
+# revision 28908
 # category Package
 # catalog-ctan /macros/latex/contrib/tabvar
-# catalog-date 2012-03-16 09:54:35 +0100
+# catalog-date 2013-01-22 17:38:01 +0100
 # catalog-license lppl1.3
-# catalog-version 1.61
+# catalog-version 1.7
 Name:		texlive-tabvar
-Version:	1.61
+Version:	1.7
 Release:	1
 Summary:	Typesetting tables showing variations of functions
 Group:		Publishing
@@ -60,20 +60,3 @@ showing variations of functions as they are used in France.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar fonts metapost tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Tue Mar 27 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.61-1
-+ Revision: 787781
-- Update to latest release.
-
-* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.6-2
-+ Revision: 756506
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.6-1
-+ Revision: 719650
-- texlive-tabvar
-- texlive-tabvar
-- texlive-tabvar
-
