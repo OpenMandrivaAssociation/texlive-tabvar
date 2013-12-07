@@ -6,7 +6,7 @@
 # catalog-version 1.7
 Name:		texlive-tabvar
 Version:	1.7
-Release:	1
+Release:	2
 Summary:	Typesetting tables showing variations of functions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabvar
