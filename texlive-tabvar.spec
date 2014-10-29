@@ -5,6 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 1.7
 Name:		texlive-tabvar
+# previous version had two components (1.61)
+Epoch:		1
 Version:	1.7
 Release:	7
 Summary:	Typesetting tables showing variations of functions
