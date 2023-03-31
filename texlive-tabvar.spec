@@ -2,7 +2,7 @@ Name:		texlive-tabvar
 # previous version had two components (1.61)
 Epoch:		1
 Version:	63921
-Release:	1
+Release:	2
 Summary:	Typesetting tables showing variations of functions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabvar
