@@ -5,7 +5,7 @@ Version:	63921
 Release:	2
 Summary:	Typesetting tables showing variations of functions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabvar
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tabvar
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tabvar.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tabvar.doc.r%{version}.tar.xz
